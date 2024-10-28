@@ -1,0 +1,9 @@
+# Nojunk Configuration
+settings:
+  # Message shown when a player's pickup is blocked
+  pickup-blocked-message: "&cThis item type is filtered out"
+
+  # GUI settings
+  gui:
+    title: "&8Junk Filter Settings"
+    size: 27

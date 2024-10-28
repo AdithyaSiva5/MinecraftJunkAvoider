@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="nojunk:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/nojunk_jar</output-path>
+    <root id="archive" name="nojunk.jar">
+      <element id="module-output" name="nojunk" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,10 @@
+name: Nojunk
+version: '${project.version}'
+main: org.example.battleroyale.nojunk.Nojunk
+api-version: '1.20'
+author: Qfie
+commands:
+  junk:
+    description: Opens the junk filter settings GUI
+    usage: /<command>
+    permission: nojunk.use
