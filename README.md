@@ -9,12 +9,8 @@ The Minecraft Junk Avoider plugin allows players to avoid picking up unnecessary
 - **Real-time Updates**: Changes take effect immediately, keeping gameplay smooth and uninterrupted.
 
 ## Commands
-- `/junkavoid toggle` - Toggle the Junk Avoider on/off.
-- `/junkavoid gui` - Open the configuration GUI to add or remove items.
+- `/junk` - Toggle the Junk Avoider on/off.
 
-## Permissions
-- `junkavoid.use` - Allows players to use the Junk Avoider.
-- `junkavoid.admin` - Provides admin access for configuration and management.
 
 ## Setup
 1. Download the plugin `.jar` file.
